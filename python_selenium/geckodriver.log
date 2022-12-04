@@ -1,0 +1,183 @@
+1669993125253	geckodriver	INFO	Listening on 127.0.0.1:51506
+1669993125730	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51507" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/06/98j3bsz13315g5zwr_5pgg_80000gn/T/rust_mozprofileCBzjs7"
+1669993126591	Marionette	INFO	Marionette enabled
+1669993126848	Marionette	INFO	Listening on port 51523
+Read port: 51523
+WebDriver BiDi listening on ws://127.0.0.1:51507
+1669993127061	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/06/98j3bsz13315g5zwr_5pgg_80000gn/T/rust_mozprofileCBzjs7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51507/devtools/browser/e14d8254-d8a1-4476-b673-cd1b14d86cb3
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/yf/l/en_US/SZ027T49Sw5.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+1669993159937	geckodriver	INFO	Listening on 127.0.0.1:51568
+1669993160453	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51569" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/06/98j3bsz13315g5zwr_5pgg_80000gn/T/rust_mozprofile4c3K4x"
+1669993161106	Marionette	INFO	Marionette enabled
+1669993161145	Marionette	INFO	Listening on port 51576
+Read port: 51576
+WebDriver BiDi listening on ws://127.0.0.1:51569
+1669993161364	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/06/98j3bsz13315g5zwr_5pgg_80000gn/T/rust_mozprofile4c3K4x/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51569/devtools/browser/d654d09e-70db-4c59-957b-96d14cde7652
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/yf/l/en_US/SZ027T49Sw5.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+1669993206474	geckodriver	INFO	Listening on 127.0.0.1:51628
+1669993206993	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51629" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/06/98j3bsz13315g5zwr_5pgg_80000gn/T/rust_mozprofileEFnm1T"
+1669993207561	Marionette	INFO	Marionette enabled
+1669993207629	Marionette	INFO	Listening on port 51636
+Read port: 51636
+WebDriver BiDi listening on ws://127.0.0.1:51629
+1669993207869	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/06/98j3bsz13315g5zwr_5pgg_80000gn/T/rust_mozprofileEFnm1T/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51629/devtools/browser/140da1b7-98d8-48fb-91c0-e180770debd2
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/yf/l/en_US/SZ027T49Sw5.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+1669993235848	Marionette	INFO	Stopped listening on port 51636
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669993239431	Marionette	INFO	Stopped listening on port 51576
+1669993409631	geckodriver	INFO	Listening on 127.0.0.1:51732
+1669993410139	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51733" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/06/98j3bsz13315g5zwr_5pgg_80000gn/T/rust_mozprofilel6Uv97"
+1669993410788	Marionette	INFO	Marionette enabled
+1669993410831	Marionette	INFO	Listening on port 51740
+Read port: 51740
+WebDriver BiDi listening on ws://127.0.0.1:51733
+1669993411049	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/06/98j3bsz13315g5zwr_5pgg_80000gn/T/rust_mozprofilel6Uv97/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51733/devtools/browser/adc9b2a9-bb88-4235-92fa-a17beb75d026
+1669997597762	Marionette	INFO	Stopped listening on port 51740
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669997599802	Marionette	INFO	Stopped listening on port 51523
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670085176979	geckodriver	INFO	Listening on 127.0.0.1:51777
+1670085177453	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51778" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/06/98j3bsz13315g5zwr_5pgg_80000gn/T/rust_mozprofilehTp1fI"
+1670085178287	Marionette	INFO	Marionette enabled
+1670085178389	Marionette	INFO	Listening on port 51790
+Read port: 51790
+WebDriver BiDi listening on ws://127.0.0.1:51778
+1670085178623	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/06/98j3bsz13315g5zwr_5pgg_80000gn/T/rust_mozprofilehTp1fI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51778/devtools/browser/893db9e4-8b8c-456f-89b5-3b56958b3147
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+1670085181919	Marionette	INFO	Stopped listening on port 51790
+1670085420649	geckodriver	INFO	Listening on 127.0.0.1:51857
+1670085421171	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51858" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/06/98j3bsz13315g5zwr_5pgg_80000gn/T/rust_mozprofileLuPpvC"
+1670085421998	Marionette	INFO	Marionette enabled
+1670085422255	Marionette	INFO	Listening on port 51867
+Read port: 51867
+WebDriver BiDi listening on ws://127.0.0.1:51858
+1670085422426	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/06/98j3bsz13315g5zwr_5pgg_80000gn/T/rust_mozprofileLuPpvC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51858/devtools/browser/bcc8337b-3e42-4dbb-8bca-6534cb0d5ae7
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+1670085425868	Marionette	INFO	Stopped listening on port 51867
+1670086166702	geckodriver	INFO	Listening on 127.0.0.1:51990
+1670086167211	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51991" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/06/98j3bsz13315g5zwr_5pgg_80000gn/T/rust_mozprofileV9QkAY"
+1670086168019	Marionette	INFO	Marionette enabled
+1670086168257	Marionette	INFO	Listening on port 52000
+Read port: 52000
+WebDriver BiDi listening on ws://127.0.0.1:51991
+1670086168427	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/06/98j3bsz13315g5zwr_5pgg_80000gn/T/rust_mozprofileV9QkAY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51991/devtools/browser/87639818-f389-4ceb-ab5d-f2e933c21d29
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+1670086173138	Marionette	INFO	Stopped listening on port 52000
+1670086189220	geckodriver	INFO	Listening on 127.0.0.1:52052
+1670086189742	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52053" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/06/98j3bsz13315g5zwr_5pgg_80000gn/T/rust_mozprofiletBXs0I"
+1670086190411	Marionette	INFO	Marionette enabled
+1670086190447	Marionette	INFO	Listening on port 52061
+Read port: 52061
+WebDriver BiDi listening on ws://127.0.0.1:52053
+1670086190665	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/06/98j3bsz13315g5zwr_5pgg_80000gn/T/rust_mozprofiletBXs0I/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52053/devtools/browser/60f4316f-5726-4aad-befd-10b2a3816512
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+1670086193401	Marionette	INFO	Stopped listening on port 52061
+1670105520259	geckodriver	INFO	Listening on 127.0.0.1:53586
+1670105520776	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53587" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/06/98j3bsz13315g5zwr_5pgg_80000gn/T/rust_mozprofilexMm9rx"
+1670105521824	Marionette	INFO	Marionette enabled
+1670105521989	Marionette	INFO	Listening on port 53595
+Read port: 53595
+WebDriver BiDi listening on ws://127.0.0.1:53587
+1670105522230	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/06/98j3bsz13315g5zwr_5pgg_80000gn/T/rust_mozprofilexMm9rx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53587/devtools/browser/d794e375-57a4-438e-ac4a-b92145cbf251
+1670105525431	Marionette	INFO	Stopped listening on port 53595
+1670108874103	geckodriver	INFO	Listening on 127.0.0.1:53907
+1670108874624	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53908" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/06/98j3bsz13315g5zwr_5pgg_80000gn/T/rust_mozprofile3lsMfW"
+1670108875328	Marionette	INFO	Marionette enabled
+1670108875523	Marionette	INFO	Listening on port 53917
+Read port: 53917
+WebDriver BiDi listening on ws://127.0.0.1:53908
+1670108875717	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/06/98j3bsz13315g5zwr_5pgg_80000gn/T/rust_mozprofile3lsMfW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53908/devtools/browser/bcec9ab5-6dc8-4e27-9839-cbfd9b80c017
+1670108878199	Marionette	INFO	Stopped listening on port 53917
+1670108890091	geckodriver	INFO	Listening on 127.0.0.1:53959
+1670108890602	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53960" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/06/98j3bsz13315g5zwr_5pgg_80000gn/T/rust_mozprofileQuaEzK"
+1670108891069	Marionette	INFO	Marionette enabled
+1670108891096	Marionette	INFO	Listening on port 53968
+Read port: 53968
+WebDriver BiDi listening on ws://127.0.0.1:53960
+1670108891222	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/06/98j3bsz13315g5zwr_5pgg_80000gn/T/rust_mozprofileQuaEzK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53960/devtools/browser/d63b2176-35ac-43f7-8272-7fa69af6a87d
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+1670108892959	Marionette	INFO	Stopped listening on port 53968
+1670112138243	geckodriver	INFO	Listening on 127.0.0.1:54378
+1670112138758	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54379" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/06/98j3bsz13315g5zwr_5pgg_80000gn/T/rust_mozprofileCaGjKf"
+1670112139488	Marionette	INFO	Marionette enabled
+1670112139710	Marionette	INFO	Listening on port 54388
+Read port: 54388
+WebDriver BiDi listening on ws://127.0.0.1:54379
+1670112139942	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/06/98j3bsz13315g5zwr_5pgg_80000gn/T/rust_mozprofileCaGjKf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54379/devtools/browser/325c76dc-371a-4d1b-a369-5ec4a1c2375d
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+1670112142475	Marionette	INFO	Stopped listening on port 54388
+1670112749758	geckodriver	INFO	Listening on 127.0.0.1:54602
+1670112750283	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54603" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/06/98j3bsz13315g5zwr_5pgg_80000gn/T/rust_mozprofilezVLwT2"
+1670112750789	Marionette	INFO	Marionette enabled
+1670112750857	Marionette	INFO	Listening on port 54610
+Read port: 54610
+WebDriver BiDi listening on ws://127.0.0.1:54603
+1670112751007	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/06/98j3bsz13315g5zwr_5pgg_80000gn/T/rust_mozprofilezVLwT2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54603/devtools/browser/d1ca35dc-aba1-41df-814d-c4fd72d31077
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+1670112753343	Marionette	INFO	Stopped listening on port 54610
+1670112792175	geckodriver	INFO	Listening on 127.0.0.1:54666
+1670112792693	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54667" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/06/98j3bsz13315g5zwr_5pgg_80000gn/T/rust_mozprofileEHLm7Q"
+1670112793272	Marionette	INFO	Marionette enabled
+1670112793418	Marionette	INFO	Listening on port 54675
+Read port: 54675
+WebDriver BiDi listening on ws://127.0.0.1:54667
+1670112793543	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/06/98j3bsz13315g5zwr_5pgg_80000gn/T/rust_mozprofileEHLm7Q/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54667/devtools/browser/b28974d5-25e0-4609-9b6f-2a056c86f830
+1670112795457	Marionette	INFO	Stopped listening on port 54675
+1670112837986	geckodriver	INFO	Listening on 127.0.0.1:54711
+1670112838507	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54712" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/06/98j3bsz13315g5zwr_5pgg_80000gn/T/rust_mozprofile8erHY7"
+1670112839108	Marionette	INFO	Marionette enabled
+1670112839253	Marionette	INFO	Listening on port 54719
+WebDriver BiDi listening on ws://127.0.0.1:54712
+Read port: 54719
+1670112839492	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/06/98j3bsz13315g5zwr_5pgg_80000gn/T/rust_mozprofile8erHY7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54712/devtools/browser/648c11f8-6c9e-45cd-a0cc-d747c159803b
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+1670112841333	Marionette	INFO	Stopped listening on port 54719
